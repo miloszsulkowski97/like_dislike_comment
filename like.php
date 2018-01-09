@@ -1,7 +1,7 @@
 <?php
 
-   	include('../config/config.inc.php');
-	include('../init.php');
+//    	include('../config/config.inc.php'); FOR PRESTASHOP USE
+// 	include('../init.php'); FOR PRESTASHOP USE
 
 
 
